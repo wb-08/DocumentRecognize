@@ -1,4 +1,4 @@
-## Automatic analysis of scanned documents( extracting handwritten digits)
+## Automatic analysis of scanned documents
 
 I highly recommend to see my blog post for better understanding: https://habr.com/ru/post/568990/
 
